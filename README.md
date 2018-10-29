@@ -1,4 +1,1 @@
-# bb-test
-buildbot test
-
-
+.
