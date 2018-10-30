@@ -6,4 +6,4 @@ def test_add():
 
 
 def test_abs():
-    assert abs(-19) == 18
+    assert abs(-19) == 19
