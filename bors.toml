@@ -1,0 +1,6 @@
+status = [
+  "buildbot/runtests"
+]
+
+# 2 hours
+timeout_sec = 7200

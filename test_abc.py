@@ -1,2 +1,5 @@
 def test_add():
-    assert 1 + 1 == 2
+    import time
+    time.sleep(5)
+
+    assert 12 + 12 == 24
