@@ -1,5 +1,5 @@
 status = [
-  "buildbot/vext01/bb-test b8-worker1",
+  "buildbot/runtests"
 ]
 
 # 2 hours
